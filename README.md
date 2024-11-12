@@ -24,3 +24,18 @@
   <li>Stripe</li>
   <li>Docker</li>
 </ul>
+<h2>🚀 Instalação e Execução:</h2>
+<ol>
+  <li>Clone o repositório:
+    <pre><code>git clone https://github.com/seuusuario/devburger-api.git</code></pre>
+  </li>
+  <li>Instale as dependências:
+    <pre><code>npm install</code></pre>
+  </li>
+  <li>Configure as variáveis de ambiente no arquivo <code>.env</code>, incluindo credenciais para banco de dados e Stripe.</li>
+  <li>Inicie a aplicação:
+    <pre><code>npm start</code></pre>
+  </li>
+</ol>
+
+<p>Sinta-se à vontade para explorar o código e sugerir melhorias! 🚀</p>
