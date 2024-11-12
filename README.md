@@ -27,7 +27,7 @@
 <h2>🚀 Instalação e Execução:</h2>
 <ol>
   <li>Clone o repositório:
-    <pre><code>git clone https://github.com/seuusuario/devburger-api.git</code></pre>
+    <pre><code>git clone https://github.com/victornery22/devburger-api.git</code></pre>
   </li>
   <li>Instale as dependências:
     <pre><code>npm install</code></pre>
