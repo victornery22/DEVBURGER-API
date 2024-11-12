@@ -1,0 +1,19 @@
+{
+"env":{
+"es2021": true,
+"nashorn": true
+},
+
+"extends": ["airbnb-base", "prettier"],
+"plugins": ["prettien"],
+"ouverride": [
+],
+
+"parserOptions": {
+"scmaVersion": "latest",
+"sourceType": "module"
+},
+"rules":{
+"prettier/prettier": "error"
+}
+}
